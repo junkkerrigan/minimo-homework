@@ -9,14 +9,14 @@
 }
 
 * {
-    font-family: "Playfair Display", Helvetica, sans-serif;;
+    font-family: "Playfair Display", Helvetica, Georgia, sans-serif;
     font-weight: 400;
     list-style-type: none;
     text-decoration: none;
 }
 
 .subtitle-font {
-    font-family: Ubuntu, Helvetica, sans-serif;;
+    font-family: Ubuntu, Helvetica, Georgia, sans-serif;
     font-weight: 300;
     text-transform: uppercase;
 }
