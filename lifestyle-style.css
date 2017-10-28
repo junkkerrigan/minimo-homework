@@ -1,0 +1,43 @@
+/*<LIFESTYLE STYLES*/
+
+.lifestyle .list {
+    margin: 30px auto;
+}
+
+.photodiary .list {
+    margin: 100px auto;
+}
+
+.list {
+    width: 900px;
+    padding: 0;
+    display: flex;
+}
+
+.coffee {
+    padding-left: 50px;
+}
+
+.item-photo {
+    margin: 0;
+}
+
+.photo-title {
+    color: #b4ad9e;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.item-title{
+    color: #626262;
+    font-size: 30px;
+    margin: 30px 0;
+}
+
+.item-content {
+    color: #626262;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/*LIFESTYLE STYLES>*/
