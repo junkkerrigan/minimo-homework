@@ -10,12 +10,27 @@
     letter-spacing: 6px;
 }
 
+.main {
+    min-height: 100vh;
+    padding-top: 160px;
+}
+
+.main-wrapper {
+    width: calc(100% - 140px);
+    margin: 0 auto;
+}
+
 .main-header {
     /*width: 1000px;
     margin: 0 auto*/
+    height: 160px;
+    position: fixed;
+    top: 0;
+    width: calc(100% - 140px);
+    /*background-color: white;*/
     display: flex;
     justify-content: space-between;
-    margin: 70px auto;
+    margin: 0 auto;
     align-items: center;
 }
 
