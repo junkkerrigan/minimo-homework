@@ -1,11 +1,11 @@
 /*<LIFESTYLE AND PHOTODIARY  STYLES*/
 
 .lifestyle .list {
-    margin: 30px auto;
+    margin: 35px auto 130px;
 }
 
 .photodiary .list {
-    margin: 100px auto;
+    margin: 0 auto 120px;
 }
 
 .list {
@@ -14,7 +14,7 @@
     display: flex;
 }
 
-.coffee, .exploring {
+.coffee, .exploring, .winter {
     padding-left: 50px;
 }
 

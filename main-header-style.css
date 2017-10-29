@@ -19,8 +19,14 @@
     align-items: center;
 }
 
+.navigation {
+    width: calc(100% - 120px);
+}
+
 .navigation-list {
     display: flex;
+    justify-content: flex-end;
+
 }
 
 .navigation-item {

@@ -13,6 +13,8 @@
     font-weight: 400;
     list-style-type: none;
     text-decoration: none;
+    padding: 0;
+    margin: 0;
 }
 
 .subtitle-font {

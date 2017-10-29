@@ -1,0 +1,49 @@
+/*<SIGN UP FORM STYLES*/
+
+.signup {
+    background-color: #f0f0f0;
+    margin-bottom: 100px;
+    width: 100%;
+    height: 290px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.signup-wrapper {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.signup-title {
+    color: #333333;
+    font-size: 30px;
+    letter-spacing: 0.75px;
+    margin: 0 auto 80px;
+}
+
+.signup-form {
+    display: flex;
+    border-bottom: 2px solid black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.signup-form input {
+    border: none;
+    background-color: inherit;
+    color: #626262;
+    font-size: 14px;
+    line-height: 24px;
+    width: 90%;
+}
+
+.submit-button {
+    background-image: url("img/plane-send.png") ;
+    border: none;
+    background-color: inherit;
+    width: 32px;
+    height: 17px;
+    padding: 0;
+}
+
+/*SIGN UP FORM STYLES>*/
